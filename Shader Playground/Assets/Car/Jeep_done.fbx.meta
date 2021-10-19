@@ -1,0 +1,200 @@
+fileFormatVersion: 2
+guid: 04e3c967d318e2648b565e9548a49ced
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: Frame
+    100002: Front_wheel
+    100004: Front_wheel.001
+    100006: //RootNode
+    100008: Rear_wheel
+    100010: Rear_wheel.001
+    100012: Smoke.001
+    100014: Smoke.002
+    100016: Smoke.003
+    100018: Smoke.004
+    100020: Smoke.005
+    100022: Smoke.006
+    100024: Smoke.007
+    100026: Smoke.008
+    100028: Smoke.009
+    100030: Smoke.010
+    100032: Smoke.011
+    100034: Smoke.012
+    100036: Spring
+    100038: Spring.001
+    100040: Spring.002
+    100042: Spring.003
+    400000: Frame
+    400002: Front_wheel
+    400004: Front_wheel.001
+    400006: //RootNode
+    400008: Rear_wheel
+    400010: Rear_wheel.001
+    400012: Smoke.001
+    400014: Smoke.002
+    400016: Smoke.003
+    400018: Smoke.004
+    400020: Smoke.005
+    400022: Smoke.006
+    400024: Smoke.007
+    400026: Smoke.008
+    400028: Smoke.009
+    400030: Smoke.010
+    400032: Smoke.011
+    400034: Smoke.012
+    400036: Spring
+    400038: Spring.001
+    400040: Spring.002
+    400042: Spring.003
+    2100000: Black
+    2100002: Light_black
+    2100004: Smoke
+    2100006: Orange
+    2100008: Glass
+    2100010: Light
+    2100012: Light_red
+    2100014: Dark_brown
+    2100016: Dark_brown_handle
+    2100018: Glass_trailer
+    2100020: Brown
+    2300000: Frame
+    2300002: Front_wheel
+    2300004: Front_wheel.001
+    2300006: Rear_wheel
+    2300008: Rear_wheel.001
+    2300010: Smoke.001
+    2300012: Smoke.002
+    2300014: Smoke.003
+    2300016: Smoke.004
+    2300018: Smoke.005
+    2300020: Smoke.006
+    2300022: Smoke.007
+    2300024: Smoke.008
+    2300026: Smoke.009
+    2300028: Smoke.010
+    2300030: Smoke.011
+    2300032: Smoke.012
+    2300034: Spring
+    2300036: Spring.001
+    2300038: Spring.002
+    2300040: Spring.003
+    3300000: Frame
+    3300002: Front_wheel
+    3300004: Front_wheel.001
+    3300006: Rear_wheel
+    3300008: Rear_wheel.001
+    3300010: Smoke.001
+    3300012: Smoke.002
+    3300014: Smoke.003
+    3300016: Smoke.004
+    3300018: Smoke.005
+    3300020: Smoke.006
+    3300022: Smoke.007
+    3300024: Smoke.008
+    3300026: Smoke.009
+    3300028: Smoke.010
+    3300030: Smoke.011
+    3300032: Smoke.012
+    3300034: Spring
+    3300036: Spring.001
+    3300038: Spring.002
+    3300040: Spring.003
+    4300000: Front_wheel
+    4300002: Rear_wheel
+    4300004: Front_wheel.001
+    4300006: Rear_wheel.001
+    4300008: Spring
+    4300010: Spring.001
+    4300012: Spring.002
+    4300014: Spring.003
+    4300016: Smoke.001
+    4300018: Frame
+    7400000: Scene
+    9500000: //RootNode
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 0.01
+    hasPreviousCalculatedGlobalScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
