@@ -1,0 +1,11 @@
+fileFormatVersion: 2
+guid: 195d0a3842fbe5448abeeaf09ea2831e
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures:
+  - _LavanoiseTexture: {fileID: 2800000, guid: f5c0b8bf42c4f1b4f8b25386e0c7ccd5, type: 3}
+  - _flowmap: {fileID: 2800000, guid: f2880439ff39ad94aac6aa10121c997a, type: 3}
+  nonModifiableTextures: []
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

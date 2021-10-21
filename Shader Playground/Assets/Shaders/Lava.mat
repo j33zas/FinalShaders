@@ -1,0 +1,66 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Lava
+  m_Shader: {fileID: 4800000, guid: 195d0a3842fbe5448abeeaf09ea2831e, type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 0
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - _LavanoiseTexture:
+        m_Texture: {fileID: 2800000, guid: e9c51e3be909c8a43ae584dbb6db900d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TileNoise_UI_detail_level_3:
+        m_Texture: {fileID: 2800000, guid: e9c51e3be909c8a43ae584dbb6db900d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _TileNoise_UI_detail_level_4:
+        m_Texture: {fileID: 2800000, guid: e9c51e3be909c8a43ae584dbb6db900d, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _flowmap:
+        m_Texture: {fileID: 2800000, guid: f2880439ff39ad94aac6aa10121c997a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _flowmap1:
+        m_Texture: {fileID: 2800000, guid: f2880439ff39ad94aac6aa10121c997a, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - _texcoord:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - _AlbedoNoiseintensity: 1.55
+    - _AlbedoNoisescale: 3
+    - _AlbedonoisePower: 3.58
+    - _Cracksize: 0.05
+    - _EdgeLength: 2
+    - _Float0: 3
+    - _FlowSpeed: 0.2
+    - _FlowSpeed1: 0.1
+    - _Height: 0.106
+    - _LavaFlowPower: 1.35
+    - _LavaFlowintensity: 1.78
+    - _Voronoiangle: 1
+    - __dirty: 0
+    - _voronoiScale: 1
+    m_Colors:
+    - _Color0: {r: 0.754717, g: 0.45317453, b: 0, a: 0}
+    - _GroundColor1: {r: 0.09433961, g: 0.029814875, b: 0.029814875, a: 0}
+    - _GroundColor2: {r: 0.103773594, g: 0.07489321, b: 0.07489321, a: 0}
+    - _LavaColor1: {r: 0.64378, g: 0.7529412, b: 0, a: 0}
+    - _LavaColor2: {r: 0.7529412, g: 0.17017785, b: 0, a: 0}

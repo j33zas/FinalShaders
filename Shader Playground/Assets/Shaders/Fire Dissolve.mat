@@ -107,13 +107,13 @@ Material:
     - _SrcBlend: 1
     - _TessValue: 32
     - _UVSec: 0
-    - _Value: 0.808
+    - _Value: 0.828
     - _Wavepower: 20
     - _WhiteEdge: 1.0258
     - _ZWrite: 1
     - __dirty: 0
     - _distortspeed: 1
-    - _firespread: 0.191
+    - _firespread: 0.25
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Color1: {r: 1, g: 0, b: 0, a: 0}

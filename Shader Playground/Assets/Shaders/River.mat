@@ -19,6 +19,10 @@ Material:
   m_SavedProperties:
     serializedVersion: 3
     m_TexEnvs:
+    - _TextureSample0:
+        m_Texture: {fileID: 8400000, guid: 25f7375ebd6fa8747b1190dd302f2ca1, type: 2}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _TileNoise_UI_detail_level_3:
         m_Texture: {fileID: 2800000, guid: e9c51e3be909c8a43ae584dbb6db900d, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -37,6 +41,7 @@ Material:
     - _EdgeLength: 7
     - _Float1: 0.5
     - _FlowSpeed: 1
+    - _FlowmapSpeed: 1
     - _Intensity: 0.38965493
-    - __dirty: 0
+    - __dirty: 1
     m_Colors: []
