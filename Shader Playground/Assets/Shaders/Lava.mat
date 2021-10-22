@@ -31,6 +31,10 @@ Material:
         m_Texture: {fileID: 2800000, guid: e9c51e3be909c8a43ae584dbb6db900d, type: 3}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
+    - _epoax1k6:
+        m_Texture: {fileID: 2800000, guid: b3433f332373fcf44b5636488fa65cea, type: 3}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
     - _flowmap:
         m_Texture: {fileID: 2800000, guid: f2880439ff39ad94aac6aa10121c997a, type: 3}
         m_Scale: {x: 1, y: 1}
@@ -45,7 +49,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _AlbedoNoiseintensity: 1.55
-    - _AlbedoNoisescale: 3
+    - _AlbedoNoisescale: 1
     - _AlbedonoisePower: 3.58
     - _Cracksize: 0.05
     - _EdgeLength: 2
