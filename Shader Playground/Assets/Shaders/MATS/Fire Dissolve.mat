@@ -86,13 +86,14 @@ Material:
     m_Floats:
     - _Bias: 1
     - _BumpScale: 1
-    - _BurnEdge: 1.129
+    - _BurnEdge: 1.094
     - _Cutoff: 0.5
     - _DetailNormalMapScale: 1
     - _DistortIntensity: 0.0096
     - _DstBlend: 0
     - _EdgeLength: 15
     - _FireSpeed: 0.6
+    - _Flowmapintensity: 1
     - _GlossMapScale: 1
     - _Glossiness: 0.5
     - _GlossyReflections: 1
@@ -107,15 +108,16 @@ Material:
     - _SrcBlend: 1
     - _TessValue: 32
     - _UVSec: 0
-    - _Value: 0.828
+    - _Value: 1
     - _Wavepower: 20
     - _WhiteEdge: 1.0258
     - _ZWrite: 1
     - __dirty: 0
-    - _distortspeed: 1
-    - _firespread: 0.25
+    - _distortspeed: 1.46
+    - _firespread: 1
     m_Colors:
     - _Color: {r: 1, g: 1, b: 1, a: 1}
     - _Color1: {r: 1, g: 0, b: 0, a: 0}
     - _Color2: {r: 0, g: 1, b: 0.9500496, a: 0}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
+    - _Vector0: {r: 3.57, g: 1, b: 0, a: 0}

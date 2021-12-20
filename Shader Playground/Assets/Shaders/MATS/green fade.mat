@@ -10,7 +10,7 @@ Material:
   m_Name: green fade
   m_Shader: {fileID: 4800000, guid: 038dc3b154b326145b5da3c480442918, type: 3}
   m_ShaderKeywords: 
-  m_LightmapFlags: 0
+  m_LightmapFlags: 4
   m_EnableInstancingVariants: 0
   m_DoubleSidedGI: 0
   m_CustomRenderQueue: -1

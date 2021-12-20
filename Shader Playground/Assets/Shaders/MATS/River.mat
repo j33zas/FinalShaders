@@ -20,7 +20,7 @@ Material:
     serializedVersion: 3
     m_TexEnvs:
     - _TextureSample0:
-        m_Texture: {fileID: 8400000, guid: 25f7375ebd6fa8747b1190dd302f2ca1, type: 2}
+        m_Texture: {fileID: 8400000, guid: 8664850e3ff0f4841baca42d50495266, type: 2}
         m_Scale: {x: 1, y: 1}
         m_Offset: {x: 0, y: 0}
     - _TileNoise_UI_detail_level_3:
@@ -38,10 +38,15 @@ Material:
     m_Floats:
     - _Colorheight: 3.56
     - _Distance: 1.25
-    - _EdgeLength: 7
+    - _EdgeLength: 8
     - _Float1: 0.5
-    - _FlowSpeed: 1
+    - _FlowSpeed: 0.42
     - _FlowmapSpeed: 1
-    - _Intensity: 0.38965493
-    - __dirty: 1
-    m_Colors: []
+    - _Intensity: 0.3425961
+    - _RippleMultiply: 0.59
+    - _RipplePower: 1
+    - _WaveIntensity: 0.364
+    - __dirty: 0
+    m_Colors:
+    - _Waves1: {r: 0, g: 0.24672677, b: 0.49056602, a: 1}
+    - _Waves2: {r: 0.27690575, g: 0.23335704, b: 0.8679245, a: 1}

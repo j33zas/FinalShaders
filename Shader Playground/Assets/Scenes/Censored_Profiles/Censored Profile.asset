@@ -30,3 +30,7 @@ MonoBehaviour:
   enabled:
     overrideState: 1
     value: 1
+  _renderT:
+    overrideState: 1
+    value: {fileID: 8400000, guid: d23a361c213befe4084a4dd57fdf05eb, type: 2}
+    defaultState: 1

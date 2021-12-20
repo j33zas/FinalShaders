@@ -9,6 +9,8 @@ using UnityEngine.Rendering.PostProcessing;
 [PostProcess( typeof( FinalppCensoredPPSRenderer ), PostProcessEvent.AfterStack, "FinalppCensored", true )]
 public sealed class FinalppCensoredPPSSettings : PostProcessEffectSettings
 {
+	[Tooltip( "render T" )]
+	public TextureParameter _renderT = new TextureParameter {  };
 }
 
 public sealed class FinalppCensoredPPSRenderer : PostProcessEffectRenderer<FinalppCensoredPPSSettings>
@@ -16,6 +18,7 @@ public sealed class FinalppCensoredPPSRenderer : PostProcessEffectRenderer<Final
 	public override void Render( PostProcessRenderContext context )
 	{
 		var sheet = context.propertySheets.Get( Shader.Find( "Final/pp/Censored" ) );
+		if(settings._renderT.value != null) sheet.properties.SetTexture( "_renderT", settings._renderT );
 		context.command.BlitFullscreenTriangle( context.source, context.destination, sheet, 0 );
 	}
 }

@@ -9,6 +9,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Rain Shader.unity
     guid: 9bde30561f76c8245b6ce4b8a021ce82
   - enabled: 1
-    path: Assets/Scenes/Toon Shader.unity
+    path: Assets/Showcase/Toon Shader.unity
     guid: 2187a4a706e56fd40b7c306dc7ac8f11
   m_configObjects: {}

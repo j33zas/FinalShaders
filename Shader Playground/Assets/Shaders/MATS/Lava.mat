@@ -51,15 +51,17 @@ Material:
     - _AlbedoNoiseintensity: 1.55
     - _AlbedoNoisescale: 1
     - _AlbedonoisePower: 3.58
-    - _Cracksize: 0.05
-    - _EdgeLength: 2
+    - _Cracksize: 0.1
+    - _EdgeLength: 20.5
     - _Float0: 3
     - _FlowSpeed: 0.2
     - _FlowSpeed1: 0.1
-    - _Height: 0.106
+    - _Height: 0.089
     - _LavaFlowPower: 1.35
     - _LavaFlowintensity: 1.78
-    - _Voronoiangle: 1
+    - _TessPhongStrength: 0.8
+    - _TessValue: 20.5
+    - _Voronoiangle: 1.27
     - __dirty: 0
     - _voronoiScale: 1
     m_Colors:

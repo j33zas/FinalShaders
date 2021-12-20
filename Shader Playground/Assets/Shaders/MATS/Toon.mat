@@ -81,7 +81,7 @@ Material:
         m_Offset: {x: 0, y: 0}
     m_Floats:
     - _ASEOutlineWidth: 0.01
-    - _Albedo: 0
+    - _Albedo: 1
     - _BumpScale: 1
     - _Cutoff: 0.5
     - _Detail: 2.6
@@ -112,12 +112,12 @@ Material:
     - _Strength: 0
     - _UVSec: 0
     - _ZWrite: 1
-    - __dirty: 1
+    - __dirty: 0
     - _specular: 0.13
     - _veretxoffset: 0
     m_Colors:
     - _ASEOutlineColor: {r: 0, g: 0, b: 0, a: 0}
-    - _Color: {r: 0, g: 0, b: 0, a: 0}
+    - _Color: {r: 0.41509432, g: 0.2956568, b: 0.2956568, a: 1}
     - _EmissionColor: {r: 0, g: 0, b: 0, a: 1}
     - _NoiseTiling: {r: 5, g: 5, b: 0, a: 0}
     - _OutlineColor: {r: 0.6037736, g: 0, b: 0, a: 0}

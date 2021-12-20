@@ -1,0 +1,231 @@
+fileFormatVersion: 2
+guid: 4f6b4ac8ec8b6854f829e6496eda16ef
+ModelImporter:
+  serializedVersion: 23
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: SHTV_Model_Car_Ambulance
+    100004: SHTV_Model_Car_Hatchback
+    100006: SHTV_Model_Car_Police
+    100008: SHTV_Model_Car_Sedan
+    100010: SHTV_Model_Wheel_Ambulance_BL
+    100012: SHTV_Model_Wheel_Ambulance_BR
+    100014: SHTV_Model_Wheel_Ambulance_FL
+    100016: SHTV_Model_Wheel_Ambulance_FR
+    100018: SHTV_Model_Wheel_Hatchback_BL
+    100020: SHTV_Model_Wheel_Hatchback_BR
+    100022: SHTV_Model_Wheel_Hatchback_FL
+    100024: SHTV_Model_Wheel_Hatchback_FR
+    100026: SHTV_Model_Wheel_Police_BL
+    100028: SHTV_Model_Wheel_Police_BR
+    100030: SHTV_Model_Wheel_Police_FL
+    100032: SHTV_Model_Wheel_Police_FR
+    100034: SHTV_Model_Wheel_Sedan_BL
+    100036: SHTV_Model_Wheel_Sedan_BR
+    100038: SHTV_Model_Wheel_Sedan_FL
+    100040: SHTV_Model_Wheel_Sedan_FR
+    100042: SHTV_Prefab_Car_Ambilance
+    100044: SHTV_Prefab_Car_Hatchback
+    100046: SHTV_Prefab_Car_Police
+    100048: SHTV_Prefab_Car_Sedan
+    400000: //RootNode
+    400002: SHTV_Model_Car_Ambulance
+    400004: SHTV_Model_Car_Hatchback
+    400006: SHTV_Model_Car_Police
+    400008: SHTV_Model_Car_Sedan
+    400010: SHTV_Model_Wheel_Ambulance_BL
+    400012: SHTV_Model_Wheel_Ambulance_BR
+    400014: SHTV_Model_Wheel_Ambulance_FL
+    400016: SHTV_Model_Wheel_Ambulance_FR
+    400018: SHTV_Model_Wheel_Hatchback_BL
+    400020: SHTV_Model_Wheel_Hatchback_BR
+    400022: SHTV_Model_Wheel_Hatchback_FL
+    400024: SHTV_Model_Wheel_Hatchback_FR
+    400026: SHTV_Model_Wheel_Police_BL
+    400028: SHTV_Model_Wheel_Police_BR
+    400030: SHTV_Model_Wheel_Police_FL
+    400032: SHTV_Model_Wheel_Police_FR
+    400034: SHTV_Model_Wheel_Sedan_BL
+    400036: SHTV_Model_Wheel_Sedan_BR
+    400038: SHTV_Model_Wheel_Sedan_FL
+    400040: SHTV_Model_Wheel_Sedan_FR
+    400042: SHTV_Prefab_Car_Ambilance
+    400044: SHTV_Prefab_Car_Hatchback
+    400046: SHTV_Prefab_Car_Police
+    400048: SHTV_Prefab_Car_Sedan
+    2100000: SHTV_Material_Cars_Red
+    2100002: SHTV_Material_Cars_Gray
+    2100004: SHTV_Material_Cars_Orange
+    2100006: SHTV_Material_Cars_Green
+    2100008: SHTV_Material_Cars_Blue
+    2300000: SHTV_Model_Car_Ambulance
+    2300002: SHTV_Model_Car_Hatchback
+    2300004: SHTV_Model_Car_Police
+    2300006: SHTV_Model_Car_Sedan
+    2300008: SHTV_Model_Wheel_Ambulance_BL
+    2300010: SHTV_Model_Wheel_Ambulance_BR
+    2300012: SHTV_Model_Wheel_Ambulance_FL
+    2300014: SHTV_Model_Wheel_Ambulance_FR
+    2300016: SHTV_Model_Wheel_Hatchback_BL
+    2300018: SHTV_Model_Wheel_Hatchback_BR
+    2300020: SHTV_Model_Wheel_Hatchback_FL
+    2300022: SHTV_Model_Wheel_Hatchback_FR
+    2300024: SHTV_Model_Wheel_Police_BL
+    2300026: SHTV_Model_Wheel_Police_BR
+    2300028: SHTV_Model_Wheel_Police_FL
+    2300030: SHTV_Model_Wheel_Police_FR
+    2300032: SHTV_Model_Wheel_Sedan_BL
+    2300034: SHTV_Model_Wheel_Sedan_BR
+    2300036: SHTV_Model_Wheel_Sedan_FL
+    2300038: SHTV_Model_Wheel_Sedan_FR
+    3300000: SHTV_Model_Car_Ambulance
+    3300002: SHTV_Model_Car_Hatchback
+    3300004: SHTV_Model_Car_Police
+    3300006: SHTV_Model_Car_Sedan
+    3300008: SHTV_Model_Wheel_Ambulance_BL
+    3300010: SHTV_Model_Wheel_Ambulance_BR
+    3300012: SHTV_Model_Wheel_Ambulance_FL
+    3300014: SHTV_Model_Wheel_Ambulance_FR
+    3300016: SHTV_Model_Wheel_Hatchback_BL
+    3300018: SHTV_Model_Wheel_Hatchback_BR
+    3300020: SHTV_Model_Wheel_Hatchback_FL
+    3300022: SHTV_Model_Wheel_Hatchback_FR
+    3300024: SHTV_Model_Wheel_Police_BL
+    3300026: SHTV_Model_Wheel_Police_BR
+    3300028: SHTV_Model_Wheel_Police_FL
+    3300030: SHTV_Model_Wheel_Police_FR
+    3300032: SHTV_Model_Wheel_Sedan_BL
+    3300034: SHTV_Model_Wheel_Sedan_BR
+    3300036: SHTV_Model_Wheel_Sedan_FL
+    3300038: SHTV_Model_Wheel_Sedan_FR
+    4300000: SHTV_Model_Car_Ambulance
+    4300002: SHTV_Model_Wheel_Ambulance_FL
+    4300004: SHTV_Model_Wheel_Ambulance_BL
+    4300006: SHTV_Model_Wheel_Ambulance_BR
+    4300008: SHTV_Model_Wheel_Ambulance_FR
+    4300010: SHTV_Model_Car_Hatchback
+    4300012: SHTV_Model_Wheel_Hatchback_FL
+    4300014: SHTV_Model_Wheel_Hatchback_BL
+    4300016: SHTV_Model_Wheel_Hatchback_BR
+    4300018: SHTV_Model_Wheel_Hatchback_FR
+    4300020: SHTV_Model_Car_Sedan
+    4300022: SHTV_Model_Wheel_Sedan_FL
+    4300024: SHTV_Model_Wheel_Sedan_BL
+    4300026: SHTV_Model_Wheel_Sedan_BR
+    4300028: SHTV_Model_Wheel_Sedan_FR
+    4300030: SHTV_Model_Car_Police
+    4300032: SHTV_Model_Wheel_Police_FL
+    4300034: SHTV_Model_Wheel_Police_BL
+    4300036: SHTV_Model_Wheel_Police_BR
+    4300038: SHTV_Model_Wheel_Police_FR
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SHTV_Material_Cars_Blue
+    second: {fileID: 2100000, guid: 204f9e69d66ff494b9159080c5658d74, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SHTV_Material_Cars_Gray
+    second: {fileID: 2100000, guid: 4a549f364321a894ba45af776077fa87, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SHTV_Material_Cars_Green
+    second: {fileID: 2100000, guid: ff56aa503938e9946b6b497d58162cb2, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SHTV_Material_Cars_Orange
+    second: {fileID: 2100000, guid: a82835df406f289448d4a4b84628ec34, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: SHTV_Material_Cars_Red
+    second: {fileID: 2100000, guid: 266832e51cda7a542a143b705e17169f, type: 2}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    importConstraints: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    useSRGBMaterialColor: 1
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+    previousCalculatedGlobalScale: 1
+    hasPreviousCalculatedGlobalScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+    legacyComputeAllNormalsFromSmoothingGroupsWhenMeshHasBlendShapes: 0
+    blendShapeNormalImportMode: 1
+    normalSmoothingSource: 0
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

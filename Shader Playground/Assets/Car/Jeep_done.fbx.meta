@@ -112,7 +112,62 @@ ModelImporter:
     4300018: Frame
     7400000: Scene
     9500000: //RootNode
-  externalObjects: {}
+  externalObjects:
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Black
+    second: {fileID: 2100000, guid: 9b614b7a6192541409207091f0a88b21, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Brown
+    second: {fileID: 2100000, guid: e7c2011760b72bd4e88c34b082c7c2a5, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_brown
+    second: {fileID: 2100000, guid: 0ce6b2e154d73af4c8ce089e5b2f8a96, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Dark_brown_handle
+    second: {fileID: 2100000, guid: 05d6c8bc747b41c41adbc5332b7652db, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass
+    second: {fileID: 2100000, guid: f2584254da6cd06418512c320429b853, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Glass_trailer
+    second: {fileID: 2100000, guid: 4157046ccf150cf44a4076bc866916ef, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light
+    second: {fileID: 2100000, guid: 51cc1cacb3dd0bf4ab4d1ff2a14c4666, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_black
+    second: {fileID: 2100000, guid: 2dc1eb5d820888242a0544cd4b4aa850, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Light_red
+    second: {fileID: 2100000, guid: d3d3a8b475b660f45aacf7a27058070a, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Orange
+    second: {fileID: 2100000, guid: 98e407e6a2202484abf2611539c750fb, type: 2}
+  - first:
+      type: UnityEngine:Material
+      assembly: UnityEngine.CoreModule
+      name: Smoke
+    second: {fileID: 2100000, guid: db301a9e4c1507b4a931cd6692004b4f, type: 2}
   materials:
     importMaterials: 1
     materialName: 0
